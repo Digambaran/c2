@@ -1,0 +1,8 @@
+{
+  "name": "c2",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/Digambaran/c2",
+    "ssh": "git@github.com:Digambaran/c2.git"
+  }
+}
